@@ -1,6 +1,8 @@
 # JLO
 Analyzing President João Lorenço's twitter data with tweepy, pandas, numpy and matplot. 
 
+![Likes VS Retweets](img/likes_vs_retweets.png "Likes Vs Retweets")
+
 ## Getting Started
 To run the project all you have to do is:
 
